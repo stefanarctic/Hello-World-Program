@@ -6,3 +6,5 @@ echo Compiled
 echo Running...
 echo: 
 java HelloWorld.class
+pause
+exit
